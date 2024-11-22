@@ -8,7 +8,7 @@
 
 ----
 
-</details><details> <summary>01.03-Prototipo 3</summary>
+</details><details> <summary>01.03-Challenge 1</summary>
 
 ### [PDF Challenge 1][Challenge-Palacios Rangel Maria Fernanda.pdf](https://github.com/user-attachments/files/17865788/Challenge1.pdf)
 
